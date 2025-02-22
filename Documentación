@@ -1,0 +1,4 @@
+Documentación: 
+Incluye guías y manuales sobre el uso de la impresora 3D. Puedes crear archivos Markdown para esto. • README.md: Introducción y descripción del proyecto. Copiar 
+TROUBLESHOOT. md: Solución de problemas comunes. Comparte perfiles de impresión, archivos G-code y configuraciones de software. Carpeta config/: Guarda aquí los archivos de configuración. 
+Issues: Utiliza los issues de GitHub para realizar un seguimiento de problemas y preguntas.
